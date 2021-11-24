@@ -2,11 +2,16 @@
 
 Further web3 functions such as balance and transactions will be added (tested them before) on windows10 (I had windows7 at home and couldn't use web3)
 This is a sample data for entering in the database in postman (5000/user) --> post method ---> to register a user
+
 {
     "name":"hamid",
+    
     "email":"hamid@gmail.com",
+    
     "walletAddress":"fhidy wkvn 9pdh rd87 lllq cplf t8w0 vm68 8upa 3456",
+    
     "bal": 100
+    
 }
 
 BTW, if you want to rewrite the database you can use the following in the command prompt:
